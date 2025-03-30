@@ -7,7 +7,8 @@
 
 An interactive game that uses computer vision to detect poses, facial expressions, and objects in real-time while allowing users to benchmark and compare different CV models.
 
-![Game Interface](https://github.com/Ahmed1Osman/CV_Game_project-/assets/yourassetid/game-interface.jpg)
+![Game Interface](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/preview.webp)
+
 
 ## Detection Examples
 
@@ -15,13 +16,13 @@ An interactive game that uses computer vision to detect poses, facial expression
 | Model | Detection Example |
 |-------|------------------|
 | MediaPipe + YOLOv8 (Bottle) | ![Bottle Detection](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/MediaPipe_YOLOv8_task_4.jpg.jpg) |
-| MediaPipe + YOLOv8 (Phone) | ![Phone Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/MediaPipe_YOLO_phone.jpg) |
 | MediaPipe + SSD (Bottle) | ![SSD Detection](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/MediaPipe_SSD_task_2.jpg.jpg) |
 ### Facial Expression & Gesture Recognition
 | Feature | Example |
 |---------|---------|
-| Facial Calibration | ![Facial Calibration](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/facial_calibration.jpg) |
+| Facial Calibration | ![Facial Calibration](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/task_complete_1.jpg) |
 | Palm Detection | ![Palm Detection](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/MediaPipe_YOLOv8_task_1.jpg.jpg) |
+| Eyes Closed Detection | ![Eyes Closed](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/task_complete_8.jpg) |
 
 ## Features
 
@@ -43,10 +44,8 @@ This project uniquely allows you to compare the performance of different compute
 | Pose Detection | MediaPipe, MoveNet | Compare accuracy vs speed |
 | Object Detection | YOLOv8, SSD MobileNet | Compare detection quality vs resource usage |
 
-![Game In Action](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/game_in_action.jpg)
+![Game In Action](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/preview%20(1).webp)
 
-### Full Body Pose Detection
-![Full Body Pose](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/full_body_pose.jpg)
 
 ### Detection Characteristics
 
