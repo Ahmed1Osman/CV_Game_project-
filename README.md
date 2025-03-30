@@ -7,16 +7,24 @@
 
 An interactive game that uses computer vision to detect poses, facial expressions, and objects in real-time while allowing users to benchmark and compare different CV models.
 
-![Game Demo](https://via.placeholder.com/800x400?text=Game+Demo+Screenshot)
+![Game Interface](https://github.com/Ahmed1Osman/CV_Game_project-/assets/yourassetid/game-interface.jpg)
 
 ## Detection Examples
 
+### Object Detection
 | Model | Detection Example |
 |-------|------------------|
-| MediaPipe + YOLOv8 | ![MediaPipe + YOLOv8](https://via.placeholder.com/400x300?text=MediaPipe+YOLOv8+Detection) |
-| MediaPipe + SSD | ![MediaPipe + SSD](https://via.placeholder.com/400x300?text=MediaPipe+SSD+Detection) |
-| MoveNet + YOLOv8 | ![MoveNet + YOLOv8](https://via.placeholder.com/400x300?text=MoveNet+YOLOv8+Detection) |
-| MoveNet + SSD | ![MoveNet + SSD](https://via.placeholder.com/400x300?text=MoveNet+SSD+Detection) |
+| MediaPipe + YOLOv8 (Bottle) | ![Bottle Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/MediaPipe_YOLO_bottle.jpg) |
+| MediaPipe + YOLOv8 (Phone) | ![Phone Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/MediaPipe_YOLO_phone.jpg) |
+| MediaPipe + SSD (Bottle) | ![SSD Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/MediaPipe_SSD_bottle.jpg) |
+
+### Facial Expression & Gesture Recognition
+| Feature | Example |
+|---------|---------|
+| Facial Calibration | ![Facial Calibration](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/facial_calibration.jpg) |
+| Palm Detection | ![Palm Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/palm_detection.jpg) |
+| Eyes Closed Detection | ![Eyes Closed](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/eyes_closed.jpg) |
+| Smiling Detection | ![Smiling](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/smiling.jpg) |
 
 ## Features
 
@@ -38,7 +46,10 @@ This project uniquely allows you to compare the performance of different compute
 | Pose Detection | MediaPipe, MoveNet | Compare accuracy vs speed |
 | Object Detection | YOLOv8, SSD MobileNet | Compare detection quality vs resource usage |
 
-![Model Comparison](https://via.placeholder.com/800x400?text=Model+Comparison+Screenshot)
+![Game In Action](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/game_in_action.jpg)
+
+### Full Body Pose Detection
+![Full Body Pose](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/full_body_pose.jpg)
 
 ### Detection Characteristics
 
