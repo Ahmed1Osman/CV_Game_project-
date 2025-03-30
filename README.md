@@ -214,6 +214,6 @@ If you use this project in your research or work, please cite:
   author = {Ahmed Othman},
   title = {Computer Vision Interactive Game with Model Comparison},
   year = {2025},
-  url = {https://github.com/yourusername/CV_Game_project-}
+  url = {https://github.com/Ahmed1Osman/CV_Game_project-}
 }
 ```
