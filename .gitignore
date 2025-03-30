@@ -1,0 +1,84 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.spyderproject
+.spyproject
+.ropeproject
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Model files & weights (add specific model files as needed)
+*.pt
+*.pth
+*.pb
+*.onnx
+*.mlmodel
+*.tflite
+**/ssd_mobilenet_v2_*/
+
+# Saved model directories
+saved_models/
+pretrained/
+weights/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Screenshots (modify according to your needs - include only essential examples)
+screenshots/gameplay/*
+!screenshots/gameplay/.gitkeep
+screenshots/manual/*
+!screenshots/manual/.gitkeep
+screenshots/tasks/*
+!screenshots/tasks/task_complete_0.jpg  # Keep one example
+!screenshots/tasks/.gitkeep
+
+# Benchmark results
+benchmark_results/*
+!benchmark_results/.gitkeep
+comparison_results/*
+!comparison_results/.gitkeep
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Profiling data
+.prof
