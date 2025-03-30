@@ -14,15 +14,14 @@ An interactive game that uses computer vision to detect poses, facial expression
 ### Object Detection
 | Model | Detection Example |
 |-------|------------------|
-| MediaPipe + YOLOv8 (Bottle) | ![Bottle Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/MediaPipe_YOLO_bottle.jpg) |
+| MediaPipe + YOLOv8 (Bottle) | ![Bottle Detection](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/MediaPipe_YOLOv8_task_4.jpg.jpg) |
 | MediaPipe + YOLOv8 (Phone) | ![Phone Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/MediaPipe_YOLO_phone.jpg) |
 | MediaPipe + SSD (Bottle) | ![SSD Detection](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/MediaPipe_SSD_task_2.jpg.jpg) |
 ### Facial Expression & Gesture Recognition
 | Feature | Example |
 |---------|---------|
 | Facial Calibration | ![Facial Calibration](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/facial_calibration.jpg) |
-| Palm Detection | ![Palm Detection](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/palm_detection.jpg) |
-| Eyes Closed Detection | ![Eyes Closed](https://raw.githubusercontent.com/Ahmed1Osman/CV_Game_project-/main/screenshots/eyes_closed.jpg) |
+| Palm Detection | ![Palm Detection](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/MediaPipe_YOLOv8_task_1.jpg.jpg) |
 
 ## Features
 
