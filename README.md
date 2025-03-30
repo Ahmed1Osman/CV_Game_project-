@@ -6,7 +6,7 @@
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.10+-orange)
 
 An interactive game that uses computer vision to detect poses, facial expressions, and objects in real-time while allowing users to benchmark and compare different CV models.
-
+### Game Interface
 ![Game Interface](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/preview.webp)
 
 
@@ -43,7 +43,7 @@ This project uniquely allows you to compare the performance of different compute
 |------------|---------|----------|
 | Pose Detection | MediaPipe, MoveNet | Compare accuracy vs speed |
 | Object Detection | YOLOv8, SSD MobileNet | Compare detection quality vs resource usage |
-
+### Game In Action
 ![Game In Action](https://github.com/Ahmed1Osman/CV_Game_project-/blob/main/screenshots/preview%20(1).webp)
 
 
